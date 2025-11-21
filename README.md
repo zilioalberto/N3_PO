@@ -1,6 +1,11 @@
+## N3 - Pesquisa Operacional
+## Professor Jaison
+## Alunos:
+# Alberto Zilio
+# Roni Pereira
+
 # Análise de Promoção de Pizza com Simulação de Monte Carlo
 
-_Relatório gerado automaticamente em 21/11/2025 01:15_
 
 ## 1. Objetivo
 
