@@ -1,0 +1,2 @@
+periodo_dias,n_simulacoes,desconto,uplift_mean,uplift_sd,fat_base_medio,fat_promo_medio,delta_medio,delta_std,prob_melhora,delta_q5,delta_q50,delta_q95
+30,5000,0.2,0.3,0.1,68544.54560999999,68621.41070809912,76.86509809913545,31.576459483534055,0.9942,25.69246323558691,76.06930841281428,130.17167706416075
